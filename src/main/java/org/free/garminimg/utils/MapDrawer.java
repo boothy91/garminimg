@@ -19,10 +19,6 @@
  */
 // WristNav modifications (2026): canvas clearing, semi-transparent polygon group, skipped background polygons.
 // This file remains under the GNU LGPL v2.1 or later; see garminimg/LICENSE.
-// WristNav modifications (2026): canvas clearing, semi-transparent polygon group, skipped background polygons.
-// This file remains under the GNU LGPL v2.1 or later; see garminimg/LICENSE.
-// WristNav modifications (2026): canvas clearing, semi-transparent polygon group, skipped background polygons.
-// This file remains under the GNU LGPL v2.1 or later; see garminimg/LICENSE.
 package org.free.garminimg.utils;
 
 import android.annotation.SuppressLint;

@@ -1,9 +1,5 @@
 // WristNav modifications (2026): added a line style for type 0x17 (walls, fences, hedges).
 // This file remains under the GNU LGPL v2.1 or later; see garminimg/LICENSE.
-// WristNav modifications (2026): added a line style for type 0x17 (walls, fences, hedges).
-// This file remains under the GNU LGPL v2.1 or later; see garminimg/LICENSE.
-// WristNav modifications (2026): added a line style for type 0x17 (walls, fences, hedges).
-// This file remains under the GNU LGPL v2.1 or later; see garminimg/LICENSE.
 package org.free.garminimg.render.style;
 
 import android.graphics.Color;
